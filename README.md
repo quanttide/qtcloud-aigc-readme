@@ -1,1 +1,8 @@
-#qtcloud-aigc-readem
+# 量潮AIGC云
+
+顶层：
+- LLM类，比如GPT、BEST的各种实现。
+- 图片类，比如SD。
+
+底层：
+- 向量数据库。
